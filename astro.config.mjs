@@ -7,7 +7,7 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-  base: '/gads/nov25/uttarpradesh/',
+  base: '/gads/nov25/lucknow/',
   output: 'static',
   vite: {
     plugins: [tailwindcss()]

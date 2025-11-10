@@ -5,13 +5,13 @@ const HeroMobile = () => (
   <section className="block sm:hidden w-full pb-7 relative">
     {/* Hero image */}
     <img
-      src="/gads/nov25/uttarpradesh/Images/Uttar pradesh3.webp"
+      src="/gads/nov25/lucknow/Images/Lucknow2.webp"
       alt="Happy family banner"
       className="w-full h-[300px] object-cover"
       loading="lazy"
     />
     {/* <video
-      src="/gads/nov25/uttarpradesh/Images/Banner 02.mp4"
+      src="/gads/nov25/lucknow/Images/Banner 02.mp4"
       autoPlay
       loop
       muted

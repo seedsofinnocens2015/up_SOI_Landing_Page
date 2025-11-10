@@ -18,7 +18,7 @@ const FloatingConsultButton = () => {
         >
           <span className="flex items-center justify-center rounded-full bg-[#C62828] h-12 w-12 mr-0">
             <img
-              src="/gads/nov25/uttarpradesh/Images/message.webp"
+              src="/gads/nov25/lucknow/Images/message.webp"
               alt="Chat on WhatsApp"
               className="h-8 w-8 object-contain"
               style={{ filter: 'drop-shadow(0 0 4px #C6282833)' }}
@@ -62,7 +62,7 @@ const FloatingConsultButton = () => {
         >
           <span className="flex items-center justify-center rounded-full bg-[#C62828] h-12 w-12 mr-0">
             <img
-              src="/gads/nov25/uttarpradesh/Images/message.webp"
+              src="/gads/nov25/lucknow/Images/message.webp"
               alt="Chat on WhatsApp"
               className="h-8 w-8 object-contain"
               style={{ filter: 'drop-shadow(0 0 4px #C6282833)' }}

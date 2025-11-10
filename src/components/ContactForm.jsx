@@ -3,12 +3,12 @@ import React, { useState } from 'react'
 const ContactForm = ({
   title = "Get Free Fertility Consultation",
   subtitle = "from",
-  subtitle2 = "Best IVF Centre in Uttar Pradesh",
+  subtitle2 = "Best IVF Centre in Lucknow",
   showDisclaimer = true,
   className = "",
   onSubmit = null,
   onClose = null,
-  leadSource = "Uttar Pradesh Google Ads"
+  leadSource = "Lucknow Google Ads"
 }) => {
   const [formData, setFormData] = useState({
     firstName: '',
