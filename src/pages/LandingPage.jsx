@@ -228,7 +228,7 @@ const LandingPage = () => {
         <section className="relative hidden sm:block w-full min-h-[500px] sm:h-[480px] lg:h-[620px]" aria-label="Hero">
           {/* Background image */}
           <img
-            src="/gads/nov25/lucknow/Images/Lucknow1.webp"
+            src="/gads/nov25/lucknow/Images/Lucknow5.webp"
             alt="Happy family banner"
             className="absolute inset-0 h-[480px] sm:h-[620px] w-full object-cover"
           />
